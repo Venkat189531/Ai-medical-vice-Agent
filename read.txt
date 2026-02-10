@@ -1,0 +1,18 @@
+npm install @clerk/nextjs
+npx create-next-app@latest
+
+npx shadcn@latest init
+npx shadcn@latest add button
+npx shadcn@latest add textarea
+npm i drizzle-orm @neondatabase/serverless dotenv
+npx shadcn@latest add "https://magicui.design/r/hero-video-dialog"
+
+npx shadcn@latest add https://ui.aceternity.com/registry/apple-cards-carousel.json
+
+
+https://oklch.com/
+
+
+https://ui.shadcn.com/
+
+https://magicui.design/  for video
